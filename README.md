@@ -3,7 +3,7 @@
 ## Set virtual environment(optional):
 ```
 python -m venv venv
-source lyrid-venv/bin/activate
+source venv/bin/activate
 ```
 
 ## Run locally with:
