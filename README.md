@@ -1,4 +1,4 @@
-﻿# Lyrid Python 3.9 Flask Template
+﻿# Lyrid Python 3.10 Flask Template
 
 ## Set virtual environment(optional):
 ```
